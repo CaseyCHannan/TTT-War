@@ -1,0 +1,51 @@
+ .button1 {
+    border: white;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: "Comic Sans MS","Comic Sans", cursive;
+}
+.button2 {
+    border: white;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: "Comic Sans MS","Comic Sans", cursive;
+}
+.button3 {
+    border: white;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: "Comic Sans MS","Comic Sans", cursive;
+} 
+
+.button1 {background-color: black;}
+.button2 {background-color: black;}
+.button3 {background-color: black;}
+
+body {
+font-family: "Comic Sans MS","Comic Sans", cursive;
+background-color: black;
+}
+
+h1 {
+text-align: center;
+color: white;
+text-decoration: white wavy underline;    
+}
