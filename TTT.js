@@ -1,4 +1,4 @@
-function myfunc() {
+function tttGame() {
  
     // Setting DOM to all boxes or input field
     var b1, b2, b3, b4, b5, b6, b7, b8, b9;
@@ -16,8 +16,8 @@ function myfunc() {
     // that disabled all the other fields
     if ((b1 == 'x' || b1 == 'X') && (b2 == 'x' ||
         b2 == 'X') && (b3 == 'x' || b3 == 'X')) {
-        document.getElementById('print')
-            .innerHTML = "Player X won";
+        const winner = document.getElementById('print')
+            winner.innerHTML = "Player X won";
         document.getElementById("b4").disabled = true;
         document.getElementById("b5").disabled = true;
         document.getElementById("b6").disabled = true;
